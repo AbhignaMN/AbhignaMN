@@ -1,72 +1,68 @@
-<!--
+
   ============================================================
-  GITHUB PROFILE README
-  Replace every "YOUR_USERNAME" with your actual GitHub handle
-  and every "you@example.com" with your real email.
+  Replace before publishing:
+  - YOUR_USERNAME          -> AbhignaMN
+  - YOUR_LINKEDIN          -> https://www.linkedin.com/in/abhigna-m-n-0a8752295/
+  - YOUR_LEETCODE_USERNAME -> https://leetcode.com/u/Abhigna_/
   ============================================================
--->
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Abhigna%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There%20👋&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Computer+Science+Undergraduate;AI%2FML+%7C+Cloud+%7C+Cybersecurity;Building+Scalable+Web+%26+CV+Systems" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Making+AI+Explainable;Making+Software+Fast+(sub-150ms+or+bust);Lead+Developer+%40+4+Concurrent+Projects" alt="Typing SVG" />
+[![Email](https://img.shields.io/badge/Email-abhigna2324%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhigna2324@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 
 </div>
 
 ---
 
-### 🎯 About Me
+## 🙋 About Me
 
-- 🎯 Two things obsess me: making AI **explainable** and making software **fast** — sub‑150ms latency isn't a nice‑to‑have, it's a personality trait
-- 🎤 Marketing Coordinator, IT Virtuoso Club — ran branding for **HACK‑A‑LEAGUE** and emceed 5+ tech events
-- 👤 Ex‑intern @ **FutureInterns** and **Infosys**; currently leveling up Generative AI chops via **Google Cloud Skills Boost**
-- 📫 [you@example.com](mailto:you@example.com) — I reply faster than my APIs (~250ms, allegedly)
+- 🎓 Computer Science undergraduate (B.E, CGPA **9.25/10**) at Global Academy of Technology
+- 🧠 Building expertise across **Software Development, AI/ML, Cloud Computing, and Cybersecurity**
+- 🛡️ Hands‑on with penetration testing, network scanning, and ethical hacking (NIELIT Calicut)
+- 💻 Experienced in **full‑stack development** — Java, React, SQL Server, REST APIs (Edunet Foundation)
+- 🔭 Currently building AI‑powered computer vision and ML systems for real‑world problems
 
 ---
 
-## 🛠️ Skills
+## 🛠 Tech Stack
 
-### Languages & Core
-
-<img src="https://skillicons.dev/icons?i=py,js,java,html,css" />
-&nbsp;
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-1e293b?style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-1e293b?style=flat-square&logo=postgresql&logoColor=white)
-
-### AI / ML
-
-<img src="https://skillicons.dev/icons?i=pytorch,scikitlearn" />
-&nbsp;
-![LLMs](https://img.shields.io/badge/LLMs-7c3aed?style=flat-square)
-![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![VertexAI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![IsolationForests](https://img.shields.io/badge/Isolation%20Forests-1e293b?style=flat-square)
-![VectorDB](https://img.shields.io/badge/Vector%20Databases-1e293b?style=flat-square)
-
-### Web, Backend & Cloud
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,mongodb,gcp,vercel" />
-&nbsp;
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma%20ORM-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-1e293b?style=flat-square&logo=socketdotio&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker%20(Basics)-2496ED?style=flat-square&logo=docker&logoColor=white)
-
+**Languages**
 <br/>
+<img src="https://skillicons.dev/icons?i=python,java,js,cs" />
 
-<!-- Proficiency bars — powered by the free progress-bar.dev image service, no hosting needed -->
-**Generative AI & LLMs** — 92%
-<br/><img src="https://progress-bar.dev/92/?color=3b82f6&width=500" />
+**Frontend & Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,dotnet,spring" />
+&nbsp;
+![RESTful API](https://img.shields.io/badge/RESTful%20API-1e293b?style=flat-square)
 
-**Machine Learning & MLOps** — 87%
-<br/><img src="https://progress-bar.dev/87/?color=a855f7&width=500" />
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+&nbsp;
+![MS SQL](https://img.shields.io/badge/Microsoft%20SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-**Full‑Stack Development** — 90%
-<br/><img src="https://progress-bar.dev/90/?color=3b82f6&width=500" />
+**Core Concepts**
+<br/>
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-1e293b?style=flat-square)
+![OOP](https://img.shields.io/badge/OOP-1e293b?style=flat-square)
+![DBMS](https://img.shields.io/badge/DBMS-1e293b?style=flat-square)
+![Networks](https://img.shields.io/badge/Computer%20Networks-1e293b?style=flat-square)
+![OS](https://img.shields.io/badge/Operating%20Systems-1e293b?style=flat-square)
+![SDLC](https://img.shields.io/badge/SDLC-1e293b?style=flat-square)
 
-**Cloud & Infra (GCP)** — 78%
-<br/><img src="https://progress-bar.dev/78/?color=a855f7&width=500" />
+**Security Tools**
+<br/>
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square)
+![CCNA](https://img.shields.io/badge/CCNA%20Certified-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 
 ---
 
@@ -83,114 +79,88 @@
 
 ---
 
-## 🚀 AI / GenAI Focus
+## 🧮 DSA / Problem Solving
 
 <div align="center">
-<img src="./assets/orbit-diagram.svg" width="380" alt="AI/GenAI tech orbit — animated" />
+
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo+2&ext=heatmap" alt="LeetCode Stats"/>
+
 </div>
 
-> My core focus is Generative AI and LLM‑powered systems — the tools orbiting the hub above (LLMs, RAG, vector databases, PyTorch, Hugging Face, Vertex AI) are the ones I reach for most, across Aven, InfraPredict, TalentIQ, and beyond.
+> Swap in your LeetCode handle above. If you also use GeeksforGeeks, Codeforces, or HackerRank, tell me your usernames there and I'll add matching cards — most of those platforms have a free stat-card generator too.
 
 ---
 
-## 🚀 Flagship Projects
+## 🏆 Achievements & Certifications
+
+| 🏅 | Achievement |
+|---|---|
+| 🥇 | Top 10% Performer — **TryHackMe** |
+| 📜 | **Cisco Certified Network Associate (CCNA)** — Cisco Networking Academy |
+| 🧩 | **IBM Z Datathon** — Participant (2024, 2025) |
+| 📈 | Top 15% — Edunet Foundation Full Stack Internship |
+| 🎓 | Python with Machine Learning — Udemy |
+| 🏫 | 12th Grade — 97% · 10th Grade — 99.67% |
+
+---
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="25%" align="center">
+<td width="50%" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b82f6,100:1e293b&height=60&text=🧭%20Calibr&fontSize=18&fontColor=ffffff&animation=twinkling" width="100%"/>
-<b>AI Fairness & Model Monitoring</b><br/>
-<sub>React 19 · TS · Recharts · Vega</sub><br/>
-<sub>Lead Developer</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b82f6,100:1e293b&height=60&text=🫁%20Pneumonia%20Detection&fontSize=16&fontColor=ffffff&animation=twinkling" width="100%"/>
 
 </td>
-<td width="25%" align="center">
+<td width="50%" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c084fc,100:1e293b&height=60&text=🩺%20Aven&fontSize=18&fontColor=ffffff&animation=twinkling" width="100%"/>
-<b>Clinical‑Grade AI CBT Simulator</b><br/>
-<sub>PyTorch · RoBERTa · FastAPI</sub><br/>
-<sub>Lead Developer</sub>
-
-</td>
-<td width="25%" align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b82f6,100:1e293b&height=60&text=☁️%20InfraPredict&fontSize=18&fontColor=ffffff&animation=twinkling" width="100%"/>
-<b>Predictive IoT Infra Monitoring</b><br/>
-<sub>Next.js · GCP · Vertex AI</sub><br/>
-<sub>Lead Developer</sub>
-
-</td>
-<td width="25%" align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c084fc,100:1e293b&height=60&text=🔍%20TrustTrace&fontSize=18&fontColor=ffffff&animation=twinkling" width="100%"/>
-<b>Document Fraud Intelligence</b><br/>
-<sub>OpenCV · sklearn · 97.8% accurate</sub><br/>
-<sub>Lead Developer</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c084fc,100:1e293b&height=60&text=🚦%20Lane%20Guardian&fontSize=16&fontColor=ffffff&animation=twinkling" width="100%"/>
 
 </td>
 </tr>
 </table>
 
-<details>
-<summary><b>💠 Calibr — AI Fairness & Model Monitoring Platform</b></summary>
+<details open>
+<summary><b>🫁 Pneumonia Detection System — Multi‑Model Ensemble Learning</b></summary>
 <br/>
 
-Lead Developer building real‑time Explainable AI (XAI) audit tooling.
+- Fine‑tuned ResNet18 CNN combined with an ensemble of 5 ML classifiers (SVM, Random Forest, KNN, Logistic Regression, Naive Bayes)
+- Achieved **96.93% validation accuracy** on chest X‑ray classification using transfer + ensemble learning
+- Built a Streamlit app for real‑time analysis of 5,000+ chest X‑rays, with Grad‑CAM heatmaps for explainability
 
-- Established a scalable React 19 + TypeScript component architecture for live model‑bias audits
-- Built low‑latency visual analytics (Recharts, Vega‑Lite) mapping Statistical Parity & Disparate Impact without blocking the UI thread
-- Shipped intersectional bias heatmaps and automated PDF export via html2canvas + jsPDF
-
-![React 19](https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Vega-Lite](https://img.shields.io/badge/Vega--Lite-1e293b?style=flat-square)
-
-</details>
-
-<details>
-<summary><b>💠 Aven — Clinical‑Grade AI CBT Simulator</b></summary>
-<br/>
-
-Lead Developer on an exposure‑therapy simulator combining conversational AI with real‑time biometrics.
-
-- Built an async NLP inference engine on fine‑tuned RoBERTa (PyTorch/Hugging Face) for multi‑label cognitive‑distortion extraction
-- Optimized background API brokers to keep round‑trip latency under 1.2s for natural conversational pacing
-- Integrated crisis guardrails, biometric tracking, and SUDS (Subjective Units of Distress) monitoring loops
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![RoBERTa](https://img.shields.io/badge/RoBERTa-FFD21E?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Grad-CAM](https://img.shields.io/badge/Grad--CAM-1e293b?style=flat-square)
 
 </details>
 
-<details>
-<summary><b>💠 InfraPredict — AI Infrastructure Monitoring Platform</b></summary>
+<details open>
+<summary><b>🚦 Lane Guardian — AI Traffic Surveillance System</b></summary>
 <br/>
 
-Lead Developer on a cloud‑native predictive maintenance pipeline for IoT infrastructure.
+- Real‑time vehicle detection and multi‑object tracking using YOLOv10, ByteTrack, and OpenCV
+- Interactive analytics dashboard visualizing 5+ traffic metrics: vehicle count, lane occupancy, congestion level, violations
 
-- (Add your remaining bullet points here — kept short since it wasn't fully visible in your screenshot)
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![YOLOv10](https://img.shields.io/badge/YOLOv10-1e293b?style=flat-square)
+![ByteTrack](https://img.shields.io/badge/ByteTrack-1e293b?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 </details>
 
 ---
 
-## 🧩 More Projects
+## 📚 Current Learning
 
-| Project | What it does | Stack |
-|---|---|---|
-| **CoreConnect** | Multi‑tenant HR/CRM workflow engine with sub‑50ms indexed queries and enterprise‑grade security (Helmet.js, rate‑limiting, XSS filters) | Next.js · Node.js · Express · Prisma |
-| **SpaceIQ** | Decoupled full‑stack analytics dashboard with flexible MongoDB schemas and optimized REST endpoints | React 19 · Node.js · MongoDB · Tailwind |
-| **TalentIQ** | Automated candidate evaluation engine cross‑analyzing portfolios, resumes, and live GitHub APIs via OpenAI few‑shot prompting | Python · OpenAI API · Hugging Face |
-| **AI Life Assistant** | Face‑recognition + RAG platform chaining OpenCV detection with vector‑mapped knowledge retrieval (~5ms lookups) | Python · OpenAI · FastAPI · OpenCV |
-| **Ghost Dodger Game** | 60 FPS offline‑first PWA with a custom vanilla‑JS game loop, collision detection, and Web Audio synthesis | HTML5 Canvas · Vanilla JS · PWA |
+![Cloud](https://img.shields.io/badge/Cloud%20Computing-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Advanced%20Cybersecurity-DC2626?style=flat-square)
+![DeepLearning](https://img.shields.io/badge/Deep%20Learning-7c3aed?style=flat-square)
+
+> Edit this list to reflect whatever you're actually studying right now.
 
 ---
 
@@ -202,20 +172,13 @@ Lead Developer on a cloud‑native predictive maintenance pipeline for IoT infra
 
 ---
 
+## 📫 Contact
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-abhigna2324%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhigna2324@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
-
-<!--
-**AbhignaMN/AbhignaMN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
