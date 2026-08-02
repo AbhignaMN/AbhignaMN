@@ -1,0 +1,90 @@
+<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="centerGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#6d28d9"/>
+    </radialGradient>
+    <style>
+      text { font-family: 'Segoe UI', Arial, sans-serif; }
+      .node-blue   { stroke: #60a5fa; fill: #0f172a; }
+      .node-purple { stroke: #c084fc; fill: #0f172a; }
+      .label       { fill: #e2e8f0; font-size: 13px; font-weight: 600; text-anchor: middle; dominant-baseline: middle; }
+      .center-label{ fill: #ffffff; font-size: 15px; font-weight: 700; text-anchor: middle; dominant-baseline: middle; }
+      .spoke       { stroke: #475569; stroke-width: 1.2; opacity: 0.6; }
+      .guide       { fill: none; stroke: #334155; stroke-width: 1; stroke-dasharray: 4 5; }
+    </style>
+  </defs>
+
+  <rect width="400" height="400" fill="none"/>
+
+  <!-- static guide orbit ring -->
+  <circle class="guide" cx="200" cy="200" r="150"/>
+
+  <!-- rotating group: spokes + satellite nodes -->
+  <g id="orbitGroup">
+    <animateTransform attributeName="transform" type="rotate"
+      from="0 200 200" to="360 200 200" dur="30s" repeatCount="indefinite"/>
+
+    <line class="spoke" x1="200" y1="200" x2="350" y2="200"/>
+    <line class="spoke" x1="200" y1="200" x2="275" y2="330"/>
+    <line class="spoke" x1="200" y1="200" x2="125" y2="330"/>
+    <line class="spoke" x1="200" y1="200" x2="50"  y2="200"/>
+    <line class="spoke" x1="200" y1="200" x2="125" y2="70"/>
+    <line class="spoke" x1="200" y1="200" x2="275" y2="70"/>
+
+    <!-- LLMs -->
+    <g transform="translate(350,200)">
+      <animateTransform attributeName="transform" type="rotate"
+        from="0 350 200" to="-360 350 200" dur="30s" repeatCount="indefinite" additive="sum"/>
+      <circle class="node-blue" r="34" stroke-width="2"/>
+      <text class="label">LLMs</text>
+    </g>
+
+    <!-- RAG -->
+    <g transform="translate(275,330)">
+      <animateTransform attributeName="transform" type="rotate"
+        from="0 275 330" to="-360 275 330" dur="30s" repeatCount="indefinite" additive="sum"/>
+      <circle class="node-purple" r="34" stroke-width="2"/>
+      <text class="label">RAG</text>
+    </g>
+
+    <!-- Vector DB -->
+    <g transform="translate(125,330)">
+      <animateTransform attributeName="transform" type="rotate"
+        from="0 125 330" to="-360 125 330" dur="30s" repeatCount="indefinite" additive="sum"/>
+      <circle class="node-blue" r="34" stroke-width="2"/>
+      <text class="label">Vector DB</text>
+    </g>
+
+    <!-- PyTorch -->
+    <g transform="translate(50,200)">
+      <animateTransform attributeName="transform" type="rotate"
+        from="0 50 200" to="-360 50 200" dur="30s" repeatCount="indefinite" additive="sum"/>
+      <circle class="node-purple" r="34" stroke-width="2"/>
+      <text class="label">PyTorch</text>
+    </g>
+
+    <!-- Hugging Face -->
+    <g transform="translate(125,70)">
+      <animateTransform attributeName="transform" type="rotate"
+        from="0 125 70" to="-360 125 70" dur="30s" repeatCount="indefinite" additive="sum"/>
+      <circle class="node-blue" r="34" stroke-width="2"/>
+      <text class="label" x="0" y="-2">Hugging</text>
+      <text class="label" x="0" y="14">Face</text>
+    </g>
+
+    <!-- Vertex AI -->
+    <g transform="translate(275,70)">
+      <animateTransform attributeName="transform" type="rotate"
+        from="0 275 70" to="-360 275 70" dur="30s" repeatCount="indefinite" additive="sum"/>
+      <circle class="node-purple" r="34" stroke-width="2"/>
+      <text class="label" x="0" y="-2">Vertex</text>
+      <text class="label" x="0" y="14">AI</text>
+    </g>
+  </g>
+
+  <!-- static center hub, drawn on top so it never rotates -->
+  <circle cx="200" cy="200" r="58" fill="url(#centerGrad)"/>
+  <text class="center-label" x="200" y="193">AI / GenAI</text>
+  <text class="center-label" x="200" y="211">Systems</text>
+</svg>
