@@ -1,184 +1,226 @@
-
-  ============================================================
+<!--
+============================================================
   Replace before publishing:
-  - YOUR_USERNAME          -> AbhignaMN
-  - YOUR_LINKEDIN          -> https://www.linkedin.com/in/abhigna-m-n-0a8752295/
-  - YOUR_LEETCODE_USERNAME -> https://leetcode.com/u/Abhigna_/
-  ============================================================
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Abhigna%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  YOUR_USERNAME        -> AbhignaMN
+  YOUR_LINKEDIN         -> https://www.linkedin.com/in/abhigna-m-n-0a8752295/
+  YOUR_LEETCODE_USERNAME-> Abhigna_
+  YOUR_NEETCODE_PROFILE -> add your NeetCode profile link here if public
+============================================================
+-->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Computer+Science+Undergraduate;AI%2FML+%7C+Cloud+%7C+Cybersecurity;Building+Scalable+Web+%26+CV+Systems" alt="Typing SVG" />
+<img src="./profile-banner.png" alt="Abhigna M N — SDE, Cybersecurity, AI/ML" width="100%"/>
 
-[![Email](https://img.shields.io/badge/Email-abhigna2324%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhigna2324@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+in+the+making;Breaking+things+to+build+them+securely;Training+models%2C+scanning+ports%2C+shipping+code;Open+to+SDE+%26+Cybersecurity+Internships!&font=Fira+Code&center=true&width=600&height=45&color=38BDF8&vCenter=true&size=22&pause=1200" alt="Typing SVG" /></a>
+
+<p>
+  <a href="mailto:abhigna2324@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/abhigna-m-n-0a8752295/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/AbhignaMN"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Abhigna_/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+</p>
 
 </div>
 
 ---
 
-## 🙋 About Me
+### 🙋 About Me
 
-- 🎓 Computer Science undergraduate (B.E, CGPA **9.25/10**) at Global Academy of Technology
-- 🧠 Building expertise across **Software Development, AI/ML, Cloud Computing, and Cybersecurity**
-- 🛡️ Hands‑on with penetration testing, network scanning, and ethical hacking (NIELIT Calicut)
-- 💻 Experienced in **full‑stack development** — Java, React, SQL Server, REST APIs (Edunet Foundation)
-- 🔭 Currently building AI‑powered computer vision and ML systems for real‑world problems
+```yaml
+role:        Computer Science Undergrad (B.E, CGPA 9.25/10) @ Global Academy of Technology
+focus:       Software Development Engineering (SDE) & Cybersecurity
+also_into:   AI/ML systems, Cloud, Computer Vision
+looking_for: SDE & Cybersecurity Internships — 2026
+currently:   Ranked Top 15% - Edunet Full Stack Internship | Top 10% - TryHackMe
+```
+
+- 🛡️ Hands-on with **penetration testing, network scanning & ethical hacking** — NIELIT Calicut
+- 💻 Full-stack engineering across **Java, React, SQL Server, REST APIs** — Edunet Foundation
+- 🧠 Built production-style **AI/ML systems** — 96.93% accuracy pneumonia classifier, real-time traffic CV pipeline
+- 🌱 Sharpening DSA daily and going deeper into **cloud security & applied deep learning**
+- ⚡ Fun fact: I'd rather break an app with Nmap before someone else does
 
 ---
 
-## 🛠 Tech Stack
+### 🛠️ Tech Arsenal
+
+<div align="center">
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,java,js,cs" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
 
 **Frontend & Backend**
 <br/>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,dotnet,spring" />
-&nbsp;
-![RESTful API](https://img.shields.io/badge/RESTful%20API-1e293b?style=flat-square)
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white"/>
 
 **Databases**
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-&nbsp;
-![MS SQL](https://img.shields.io/badge/Microsoft%20SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 
-**Core Concepts**
+**AI / ML / CV**
 <br/>
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-1e293b?style=flat-square)
-![OOP](https://img.shields.io/badge/OOP-1e293b?style=flat-square)
-![DBMS](https://img.shields.io/badge/DBMS-1e293b?style=flat-square)
-![Networks](https://img.shields.io/badge/Computer%20Networks-1e293b?style=flat-square)
-![OS](https://img.shields.io/badge/Operating%20Systems-1e293b?style=flat-square)
-![SDLC](https://img.shields.io/badge/SDLC-1e293b?style=flat-square)
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 
-**Security Tools**
+**Cybersecurity Tooling**
 <br/>
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square)
-![CCNA](https://img.shields.io/badge/CCNA%20Certified-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/CCNA_Certified-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=red"/>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+**Core CS**
+<br/>
+<img src="https://img.shields.io/badge/DSA-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/OOP-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/DBMS-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer_Networks-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/Operating_Systems-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/SDLC-black?style=flat-square"/>
 
 </div>
 
 ---
 
-## 🧮 DSA / Problem Solving
+### 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo+2&ext=heatmap" alt="LeetCode Stats"/>
-
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AbhignaMN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhignaMN&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
-> Swap in your LeetCode handle above. If you also use GeeksforGeeks, Codeforces, or HackerRank, tell me your usernames there and I'll add matching cards — most of those platforms have a free stat-card generator too.
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhignaMN&theme=tokyonight&hide_border=true"/>
+</div>
 
 ---
 
-## 🏆 Achievements & Certifications
+### 🧮 DSA / Problem Solving
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/Abhigna_?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
+
+</div>
+
+> 📌 Actively grinding DSA on **[NeetCode](https://neetcode.io/)** — LeetCode profile linked above for the record, but most day-to-day practice happens on NeetCode's roadmap. Happy to share progress/solutions if you're curious!
+
+---
+
+### 🏆 Achievements & Certifications
 
 | 🏅 | Achievement |
-|---|---|
+|----|-------------|
 | 🥇 | Top 10% Performer — **TryHackMe** |
 | 📜 | **Cisco Certified Network Associate (CCNA)** — Cisco Networking Academy |
-| 🧩 | **IBM Z Datathon** — Participant (2024, 2025) |
-| 📈 | Top 15% — Edunet Foundation Full Stack Internship |
+| 🧩 | IBM Z Datathon — Participant (2024, 2025) |
+| 📈 | Top 15% — **Edunet Foundation** Full Stack Internship |
 | 🎓 | Python with Machine Learning — Udemy |
 | 🏫 | 12th Grade — 97% · 10th Grade — 99.67% |
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b82f6,100:1e293b&height=60&text=🫁%20Pneumonia%20Detection&fontSize=16&fontColor=ffffff&animation=twinkling" width="100%"/>
+**🫁 Pneumonia Detection — Multi-Model Ensemble**
+
+Fine-tuned ResNet18 CNN + ensemble of 5 ML classifiers (SVM, RF, KNN, LogReg, Naive Bayes) for chest X-ray classification.
+
+- ✅ **96.93%** validation accuracy
+- ⚡ Streamlit app analyzing 5,000+ X-rays in real time
+- 🔍 Grad-CAM heatmaps for explainability
+
+`Python` `PyTorch` `Streamlit` `scikit-learn` `OpenCV` `Grad-CAM`
 
 </td>
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c084fc,100:1e293b&height=60&text=🚦%20Lane%20Guardian&fontSize=16&fontColor=ffffff&animation=twinkling" width="100%"/>
+**🚦 Lane Guardian — AI Traffic Surveillance**
+
+Real-time vehicle detection & multi-object tracking system for traffic monitoring.
+
+- 🎯 YOLOv10 + ByteTrack for detection & tracking
+- 📊 Live dashboard: vehicle count, lane occupancy, congestion, violations
+
+`Python` `YOLOv10` `ByteTrack` `OpenCV`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🛡️ Security Toolkit — Port Scanner, Keylogger, Hasher**
+
+Built during NIELIT Calicut Cyber Security internship — Python utilities for reconnaissance and credential security, exercised alongside Nmap/Metasploit-based pentesting labs.
+
+`Python` `Nmap` `Metasploit` `Ethical Hacking`
+
+</td>
+<td width="50%" valign="top">
+
+**🎓 Student & Timetable Management Systems**
+
+Full-stack CRUD applications built during the Edunet Foundation internship, with REST API testing via Postman.
+
+`Java` `React` `SQL Server` `Postman`
 
 </td>
 </tr>
 </table>
 
-<details open>
-<summary><b>🫁 Pneumonia Detection System — Multi‑Model Ensemble Learning</b></summary>
-<br/>
-
-- Fine‑tuned ResNet18 CNN combined with an ensemble of 5 ML classifiers (SVM, Random Forest, KNN, Logistic Regression, Naive Bayes)
-- Achieved **96.93% validation accuracy** on chest X‑ray classification using transfer + ensemble learning
-- Built a Streamlit app for real‑time analysis of 5,000+ chest X‑rays, with Grad‑CAM heatmaps for explainability
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Grad-CAM](https://img.shields.io/badge/Grad--CAM-1e293b?style=flat-square)
-
-</details>
-
-<details open>
-<summary><b>🚦 Lane Guardian — AI Traffic Surveillance System</b></summary>
-<br/>
-
-- Real‑time vehicle detection and multi‑object tracking using YOLOv10, ByteTrack, and OpenCV
-- Interactive analytics dashboard visualizing 5+ traffic metrics: vehicle count, lane occupancy, congestion level, violations
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![YOLOv10](https://img.shields.io/badge/YOLOv10-1e293b?style=flat-square)
-![ByteTrack](https://img.shields.io/badge/ByteTrack-1e293b?style=flat-square)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-</details>
-
 ---
 
-## 📚 Current Learning
-
-![Cloud](https://img.shields.io/badge/Cloud%20Computing-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Advanced%20Cybersecurity-DC2626?style=flat-square)
-![DeepLearning](https://img.shields.io/badge/Deep%20Learning-7c3aed?style=flat-square)
-
-> Edit this list to reflect whatever you're actually studying right now.
-
----
-
-## 🐍 Contribution Snake
+### 📚 Currently Leveling Up
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%"/>
+<img src="https://img.shields.io/badge/Cloud_Security-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Advanced_DSA-000000?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/Applied_Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/System_Design-FF6F00?style=for-the-badge"/>
 </div>
 
 ---
 
-## 📫 Contact
+### 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/AbhignaMN/AbhignaMN/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="100%"/>
+</div>
+
+<sub>Generated by the `snake.yml` GitHub Action already in this repo — runs automatically, no manual updates needed.</sub>
+
+---
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-abhigna2324%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhigna2324@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+### 📫 Let's Connect
+
+**Open to SDE & Cybersecurity internship opportunities — always happy to talk security, systems, or ML.**
+
+<a href="mailto:abhigna2324@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abhigna-m-n-0a8752295/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=100&section=footer" width="100%"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
